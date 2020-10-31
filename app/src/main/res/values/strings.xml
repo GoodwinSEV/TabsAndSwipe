@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabsAndSwipe</string>
+    <string name="tab_text_1">Первая</string>
+    <string name="tab_text_2">Вторая</string>
+    <string name="tab_text_3">Третья</string>
+</resources>
